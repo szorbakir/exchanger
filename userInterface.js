@@ -10,7 +10,7 @@ class UserInterface {
     container.innerHTML = `
         <div id="sourceRow" class="row justify-content-center"><h4>${amount} ${source}=</h4></div>
         <div id="targetRow" class="row justify-content-center">
-          <h1 class="display-3"> ${result} ${target}</h1>
+          <h1 class="display-4"> ${result} ${target}</h1>
         </div>
         <br/>
         <div class="row justify-content-center">
